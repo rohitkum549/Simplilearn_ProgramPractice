@@ -4,6 +4,7 @@ public class QuizProgram
 {
 	public static void main (String args[])
 	{
+		//Rohit Kumar Jha
 		Scanner X=new Scanner (System.in);
 		while(true)
 		{
