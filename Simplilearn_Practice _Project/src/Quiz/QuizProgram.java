@@ -15,17 +15,17 @@ public class QuizProgram
 			int Ans=X.nextInt();
 			if(Ans==3)
 				{
-					System.out.println("!!Correct!!");
+					System.out.println("\t\t!!!!!Correct!!!!!!");
 					break;
 				}
 			else if (Ans==5 || Ans>5 || Ans<1)
 				{
-					System.out.println("Opps!! Invalid Input! "+"!!Thanks For Playing !!");
+					System.out.println("\t\tOpps!! Invalid Input! "+"!!Thanks For Playing !!");
 					break;
 				}
 			else
 				{
-					System.out.println("!!Wrong!!");
+					System.out.println("\t\t!!Wrong!!");
 				}
 		}
 //		X.close();
